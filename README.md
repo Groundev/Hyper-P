@@ -3,11 +3,11 @@ Repositorio del proyecto de Tecnicas de Programacion I
 
 Este es un proyecto escrito en lenguaje C realizado por estudiantes de Ingieneria Informatica de la UNEG.
 Miembros:
-**- Joel Diaz
+- Joel Diaz
 - Emmanuel Cifuentes
 - Christian Lopez
 - Pedro Palmares
-- Diego Bolivar**
+- Diego Bolivar
 
 Con el objetivo en mente de realizar el sistema de control de cajas e inventario de un hypermercado ubicado en Puerto Ordaz, para que la gestion se la mas eficaz y amigable posible.
 
@@ -25,5 +25,5 @@ Instrucciones
 
 
 --------------------
-- **Executing Ideas** -
+**Executing Ideas** 
 --------------------
