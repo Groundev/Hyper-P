@@ -13,6 +13,7 @@ Con el objetivo en mente de realizar el sistema de control de cajas e inventario
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Instrucciones
+
 1- Al iniciar el programa se es requerido que un administrador inicialice las cajas para empezar el uso de estas 
 (Nota: no se debe de inicializar despues de que se hayan modificado datos).
 2- Se requiere que se agreguen los trabajadores a la lista de trabajadores.
