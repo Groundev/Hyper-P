@@ -9,7 +9,7 @@ Miembros:
 - Pedro Palmares
 - Diego Bolivar
 
-Con el objetivo en mente de realizar el sistema de control de cajas e inventario de un hypermercado ubicado en Puerto Ordaz, para que la gestion se la mas eficaz y amigable posible.
+Con el objetivo en mente de realizar el sistema de control de cajas e inventario de un hypermercado ubicado en Puerto Ordaz, para que la gestion sea la mas eficaz y amigable posible.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Instrucciones**
